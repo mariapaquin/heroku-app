@@ -1,0 +1,9 @@
+Flask
+gunicorn
+Response
+pandas
+sklearn
+numpy
+io
+matplotlib
+gensim
